@@ -5,4 +5,4 @@ This project aims at detecting whether a driver is feeling drowsy or is active w
 
 ### Plotting Loss Values and Accuracy against Number of Epochs for Train Set and Test Set
 
-https://github.com/Sanskar02/Driver_-Drowsiness_Prediction/blob/31235f2087f81d0e585941368c2bd6d22bf25471/Images/accuracy.png
+![This is an image](https://github.com/Sanskar02/Driver_-Drowsiness_Prediction/blob/31235f2087f81d0e585941368c2bd6d22bf25471/Images/accuracy.png)
